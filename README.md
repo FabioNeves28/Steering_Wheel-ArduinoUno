@@ -6,4 +6,4 @@ First of all, let's download all archives required!<br>
 https://www.microchip.com/en-us/development-tool/flip <br>
 After install, make the circuit.<br> 
 <h3>Circuit:</h3>
-<img src="https://imgur.com/a/wcHnQfL" width="1895" height="1070 ">
+<img src="https://i.imgur.com/oUxUPN5.png" width="980" height="1070 ">
