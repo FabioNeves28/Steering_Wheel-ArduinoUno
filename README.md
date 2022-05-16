@@ -23,4 +23,8 @@ Follow the exemple:<br>
 <img src="https://i.imgur.com/7vopYcb.jpg" width="480" height="240 "><br>
 After doo this, load the programation to Arduino with follow step.<br>
 <img src="https://i.imgur.com/Zuje1XL.png" width="480" height="240 "><br>
-Now, open the paste "
+Now, open the pastes "UnoJoy-master/UnoJoy" then click over the archive "TurnIntoAJoystick" and await complete the installation<br>
+<h3>Conclusion</h3>
+This is all you need to transform your Arduino Uno in a joystick, enjoy the project!
+If appear the erro "atlibusbdfu.dll not found atmel flip" or similiar, watch this video: https://www.youtube.com/watch?v=Vd0F0XHzchY<br>
+Or open a case in "Issues" tab.
